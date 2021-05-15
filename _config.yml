@@ -15,6 +15,7 @@ hide_header: true
 plugins:
   - jekyll-remote-theme
   - jemoji
+  - jekyll-seo-tag
 
 # Including jekyll-shell-theme using the jekyll-remote-theme plugin
 remote_theme: nitwit-se/jekyll-chinolor-shell-theme
