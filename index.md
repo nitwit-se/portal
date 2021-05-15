@@ -43,6 +43,15 @@ title: portal
 | [](ext+container:name=MMG&url=){:target="_blank"}      | [](ext+container:name=MMG&url=){:target="_blank"}       | [](ext+container:name=MMG&url=){:target="_blank"}       |
 
 
+# Home
+
+|<!-- -->|<!-- -->|<!-- -->|
+| :--  | :-- | :-- |
+| [:floppy_disk:NAS](ext+container:name=Personal&url=https://server.dixon.se:5001/){:target="_blank"}      | [:fax:UniFi](ext+container:name=Personal&url=https://192.168.2.13:8443){:target="_blank"}       | [:satellite:Unifi (Remote)](ext+container:name=Personal&url=https://unifi.ui.com/dashboard){:target="_blank"}       |
+| [:tv:Plex](ext+container:name=Personal&url=server.dixon.se:32400){:target="_blank"}      | [](ext+container:name=ClimateView&url=){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
+
+
+
 
 # Links
 
