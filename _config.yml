@@ -8,7 +8,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Firefox Portal Page.
 baseurl: "/portal" # the subpath of your site
 url: "nitwit.se" # the base hostname & protocol for your site
-minimal: true
+hide_footer: true
+hide_header: true
 
 # Required plugins for the theme to work properly
 plugins:
