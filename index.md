@@ -10,7 +10,16 @@ title: portal
 
 # Top
 
-[Roam](ext+container:name=Nitwit&url=https://roamresearch.com/)
+[Roam](ext+container:name=Nitwit&url=https://roamresearch.com/){:target="_blank"}
+
+
+# CV
+
+| Tables        | Are           |
+| ------------- |:-------------:|
+| [Roam](ext+container:name=Nitwit&url=https://roamresearch.com/){:target="_blank"}  | [Roam](ext+container:name=Nitwit&url=https://roamresearch.com/){:target="_blank"} |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 
 
