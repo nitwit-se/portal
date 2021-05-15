@@ -6,7 +6,30 @@ title: portal
 
 ---
 
-<iframe src="https://duckduckgo.com/search.html?prefill=Search&focus=yes" style="overflow:hidden;margin:0;margin-top:20px; margin-bottom:20px; padding:0;width:100%;height:40px;" frameborder="0"></iframe>  
+# Search
+
+<style>
+#search_form_input_homepage {
+    background: #fff;
+    color: #222;
+    width: 100%;
+    display: block;
+    height: 39px;
+    padding: 4px 42px 5px 6px;
+    margin: 0;
+    outline: none;
+    border-right: 0;
+    border: 1px solid #8d8d8d;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+</style>
+<form action="https://www.google.com/search" method="GET" role="search"> 
+    <input id="search_form_input_homepage"  autocomplete="off" autofocus="on"  
+           maxlength="2048" name="q" role="combobox" spellcheck="false" 
+           title="Search" type="text" value="">
+</form>
+
 
 
 # Title 
@@ -48,7 +71,7 @@ title: portal
 |<!-- -->|<!-- -->|<!-- -->|
 | :--  | :-- | :-- |
 | [:floppy_disk:NAS](ext+container:name=Personal&url=https://server.dixon.se:5001/){:target="_blank"}      | [:fax:UniFi](ext+container:name=Personal&url=https://192.168.2.13:8443){:target="_blank"}       | [:satellite:Unifi (Remote)](ext+container:name=Personal&url=https://unifi.ui.com/dashboard){:target="_blank"}       |
-| [:tv:Plex](ext+container:name=Personal&url=server.dixon.se:32400){:target="_blank"}      | [](ext+container:name=ClimateView&url=){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
+| [:movie_camera:Plex](ext+container:name=Personal&url=server.dixon.se:32400){:target="_blank"}      | [](ext+container:name=ClimateView&url=){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
 
 
 
