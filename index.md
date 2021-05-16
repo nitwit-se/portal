@@ -54,7 +54,7 @@ title: portal
 |<!-- -->|<!-- -->|<!-- -->|
 | :--  | :-- | :-- |
 | [:cloud:Google Admin](ext+container:name=Nitwit&url=https://admin.google.com){:target="_blank"}   |[:pencil2:Skrivplaneten](ext+container:name=Nitwit&url=https://skrivplaneten.se/admin){:target="_blank"}      | [ :zzz:Azure](ext+container:name=ClimateView&url=https://portal.azure.com){:target="_blank"} |     | 
-| [:credit_card:Stripe](ext+container:name=Nitwit&url=https://stripe.com){:target="_blank"}     | [](ext+container:name=ClimateView&url=){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
+| [:credit_card:Stripe](ext+container:name=Nitwit&url=https://stripe.com){:target="_blank"}     | [:euro:VISMA](ext+container:name=Nitwit&url=https://vismaonline.com/){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
 
 
 
