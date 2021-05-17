@@ -57,8 +57,6 @@ title: portal
 | [:credit_card:Stripe](ext+container:name=Nitwit&url=https://stripe.com){:target="_blank"}     | [:euro:VISMA](ext+container:name=Nitwit&url=https://vismaonline.com/){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
 
 
-
-
 # MMG
 
 |<!-- -->|<!-- -->|<!-- -->|
