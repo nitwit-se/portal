@@ -80,7 +80,7 @@ title: portal
 
 |<!-- -->|<!-- -->|<!-- -->|
 | :--  | :-- | :-- |
-| [:rowboat:Noun Project](ext+container:name=Nitwit&url=https://thenounproject.com/){:target="_blank"}      | [:tomato:Slashdot](ext+container:name=Personal&url=ext+container:name=Personal&url=https://slashdot.org){:target="_blank"}       | [:convenience_store:Webhallen](ext+container:name=Shopping&url=ext+container:name=Shopping&url=https://webhallen.com/){:target="_blank"}       |
+| [:rowboat:Noun Project](ext+container:name=Nitwit&url=https://thenounproject.com/){:target="_blank"}      | [:tomato:Slashdot](ext+container:name=Personal&url=ext+container:name=Personal&url=https://slashdot.org){:target="_blank"}       | [:convenience_store:Webhallen](ext+container:name=Shopping&url=https://webhallen.com/){:target="_blank"}       |
 
 
 
