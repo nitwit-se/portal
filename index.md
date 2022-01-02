@@ -36,9 +36,9 @@ title: portal
 
 |<!-- -->|<!-- -->|<!-- -->|
 | :--  | :-- | :-- |
-| [:cloud: Google Admin](ext+container:name=ClimateView&url=https://admin.google.com){:target="_blank"} | [ :zzz:Azure](ext+container:name=ClimateView&url=https://portal.azure.com){:target="_blank"} |  [ :zzz:Azure (TT)](ext+container:name=TransitionProject&url=https://portal.azure.com){:target="_blank"} |
-| [:hammer_and_wrench:Devops](ext+container:name=TransitionProject&url=https://dev.azure.com/MapLauncher/){:target="_blank"}      | [:sunny:CV App](ext+container:name=ClimateView&url=https://dev.azure.com/MapLauncher/){:target="_blank"}       | [:information_desk_person:Asana](ext+container:name=ClimateView&url=https://asana.com){:target="_blank"}       |
-| [Dev Login Portal](ext+container:name=ClimateView&url=https://climateboard-dev-login.azurewebsites.net/){:target="_blank"}      | [:moyai:Slab](ext+container:name=ClimateView&url=https://climateview.slab.com/){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
+| [ :cloud: Google Admin](ext+container:name=ClimateView&url=https://admin.google.com){:target="_blank"} | [ :zzz: Azure](ext+container:name=ClimateView&url=https://portal.azure.com){:target="_blank"} |  [ :zzz: Azure (TT)](ext+container:name=TransitionProject&url=https://portal.azure.com){:target="_blank"} |
+| [ :hammer_and_wrench: Devops](ext+container:name=TransitionProject&url=https://dev.azure.com/MapLauncher/){:target="_blank"}      | [ :sunny: CV App](ext+container:name=ClimateView&url=https://dev.azure.com/MapLauncher/){:target="_blank"}       | [ :information_desk_person: Asana](ext+container:name=ClimateView&url=https://asana.com){:target="_blank"}       |
+| [Dev Login Portal](ext+container:name=ClimateView&url=https://climateboard-dev-login.azurewebsites.net/){:target="_blank"}      | [ :moyai: Slab](ext+container:name=ClimateView&url=https://climateview.slab.com/){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
 
 
 
@@ -47,15 +47,15 @@ title: portal
 
 |<!-- -->|<!-- -->|<!-- -->|
 | :--  | :-- | :-- |
-| [:cloud:Google Admin](ext+container:name=Nitwit&url=https://admin.google.com){:target="_blank"}   |[:pencil2:Skrivplaneten](ext+container:name=Nitwit&url=https://skrivplaneten.se/admin){:target="_blank"}      | [ :zzz:Azure](ext+container:name=ClimateView&url=https://portal.azure.com){:target="_blank"} |     | 
-| [:credit_card:Stripe](ext+container:name=Nitwit&url=https://stripe.com){:target="_blank"}     | [:euro:VISMA](ext+container:name=Nitwit&url=https://vismaonline.com/){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
+| [ :cloud: Google Admin](ext+container:name=Nitwit&url=https://admin.google.com){:target="_blank"}   |[ :pencil2: Skrivplaneten](ext+container:name=Nitwit&url=https://skrivplaneten.se/admin){:target="_blank"}      | [ :zzz: Azure](ext+container:name=ClimateView&url=https://portal.azure.com){:target="_blank"} |     | 
+| [ :credit_card: Stripe](ext+container:name=Nitwit&url=https://stripe.com){:target="_blank"}     | [ :euro: VISMA](ext+container:name=Nitwit&url=https://vismaonline.com/){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
 
 
 # MMG
 
 |<!-- -->|<!-- -->|<!-- -->|
 | :--  | :-- | :-- |
-| [:credit_card:Stripe](ext+container:name=MMG&url=https://stripe.com){:target="_blank"}   |[:muscle:Motivation.se](ext+container:name=MMG&url=https://motivation.se/admin){:target="_blank"}      | [:hammer:AWS](ext+container:name=MMG&url=https://aws.amazon.com){:target="_blank"}       | 
+| [ :credit_card: Stripe](ext+container:name=MMG&url=https://stripe.com){:target="_blank"}   |[ :muscle: Motivation.se](ext+container:name=MMG&url=https://motivation.se/admin){:target="_blank"}      | [ :hammer: AWS](ext+container:name=MMG&url=https://aws.amazon.com){:target="_blank"}       | 
 | [](ext+container:name=MMG&url=){:target="_blank"}      | [](ext+container:name=MMG&url=){:target="_blank"}       | [](ext+container:name=MMG&url=){:target="_blank"}       |
 
 
@@ -63,8 +63,8 @@ title: portal
 
 |<!-- -->|<!-- -->|<!-- -->|
 | :--  | :-- | :-- |
-| [:floppy_disk:NAS](ext+container:name=Personal&url=https://server.dixon.se:5001/){:target="_blank"}      | [:fax:UniFi](ext+container:name=Personal&url=https://192.168.2.13:8443){:target="_blank"}       | [:satellite:Unifi (Remote)](ext+container:name=Personal&url=https://unifi.ui.com/dashboard){:target="_blank"}       |
-| [:movie_camera:Plex](ext+container:name=Personal&url=server.dixon.se:32400){:target="_blank"}      | [](ext+container:name=ClimateView&url=){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
+| [ :floppy_disk: NAS](ext+container:name=Personal&url=https://server.dixon.se:5001/){:target="_blank"}      | [ :fax: UniFi](ext+container:name=Personal&url=https://192.168.2.13:8443){:target="_blank"}       | [ :satellite: Unifi (Remote)](ext+container:name=Personal&url=https://unifi.ui.com/dashboard){:target="_blank"}       |
+| [ :movie_camera: Plex](ext+container:name=Personal&url=server.dixon.se:32400){:target="_blank"}      | [](ext+container:name=ClimateView&url=){:target="_blank"}       | [](ext+container:name=ClimateView&url=){:target="_blank"}       |
 
 
 
@@ -73,7 +73,7 @@ title: portal
 
 |<!-- -->|<!-- -->|<!-- -->|
 | :--  | :-- | :-- |
-| [:rowboat:Noun Project](ext+container:name=Nitwit&url=https://thenounproject.com/){:target="_blank"}      | [:tomato:Slashdot](ext+container:name=Personal&url=ext+container:name=Personal&url=https://slashdot.org){:target="_blank"}       | [:convenience_store:Webhallen](ext+container:name=Shopping&url=https://webhallen.com/){:target="_blank"}       |
+| [ :rowboat: Noun Project](ext+container:name=Nitwit&url=https://thenounproject.com/){:target="_blank"}      | [ :tomato: Slashdot](ext+container:name=Personal&url=ext+container:name=Personal&url=https://slashdot.org){:target="_blank"}       | [ :convenience_store: Webhallen](ext+container:name=Shopping&url=https://webhallen.com/){:target="_blank"}       |
 
 
 
