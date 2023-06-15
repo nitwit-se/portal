@@ -23,6 +23,7 @@ title: portal
     font-size: 18px;
     box-sizing: border-box;
 }
+    
 </style>
 <form action="https://www.google.com/search" method="GET" role="search"> 
     <input id="search_form_input_homepage"  autocomplete="off" autofocus="on"  
